@@ -1,0 +1,115 @@
+﻿@inject Shop.Application.CatagoryAdmin.GetCatagories getCatagory
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Board Gamer Shop</title>
+
+    <link href="~/lib/bulma-0.9.0/css/bulma.min.css" rel="stylesheet" />
+    <link href="~/css/ssite.css" rel="stylesheet" />
+    <link rel="shortcut icon" href="#">
+
+    
+</head>
+<body>
+
+        <nav class="navbar is-white" role="navigation" aria-label="main navigation">
+
+
+            <div class="container">
+
+
+                <div class="navbar-brand">
+
+                    <a class="navbar-item" asp-page="/Index">
+                        <img src="~/images/bg.jpg" style="max-height:3.5rem;" width="130">
+                    </a>
+
+
+                    <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                    </a>
+
+
+                </div>
+
+                <div id="navbarBasicExample" class="navbar-menu">
+                    <div class="navbar-start">
+
+                        @if (User.Identity.IsAuthenticated)
+                        {
+
+            <a class="navbar-item" asp-area="" asp-page="/Admin/Index">Pavle Šupeta</a>}
+
+
+                    </div>
+
+                    <div class="navbar-end">
+
+                        <vc:cart view="Small"> </vc:cart>
+
+                        @{ var s = getCatagory.Do(); }
+                        <div class="navbar-item dropdown is-hoverable">
+                            <a class="navbar-link">
+                                Categories
+                            </a>
+
+                            <div class="navbar-dropdown">
+                                @foreach (var cat in s)
+                                {
+                    <a class="dropdown-item" asp-area="" asp-page="/CategoryPage" asp-route-catagoryId="@cat.Id">@cat.Catagory</a>}
+                            </div>
+                        </div>
+
+                        <form class="navbar-item" asp-page="/Index">
+                            <div class="navbar-item has-addons ">
+
+                                <input class="input is-rounded is-normal is-size-7-mobile" style="width:50%;" name="term" type="text" placeholder="Search your product">
+                                <button type="submit" class="button is-info is-rounded is-normal is-size-7-mobile "><i class="fas fa-search"></i></button>
+
+                            </div>
+                        </form>
+
+
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                    <a class="navbar-item" asp-area="" asp-page="/Accounts/Logout">Sign Out</a> }
+                else
+                {
+
+                    <a class="navbar-item" asp-area="" asp-page="/Accounts/Login">Sign In</a>}
+
+                    </div>
+                </div>
+
+            </div>
+        </nav>
+
+        <div class="container">
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
+        </div>
+
+        <footer class="footer">
+            <div class="content has-text-centered">
+                <p>
+                    <strong>BoardGamer shop</strong> by <a href="https://github.com/ThePavle">Pavle Šupeta</a>. The source code is licensed by University of Technical Sciences Novi Sad
+                </p>
+
+
+
+            </div>
+
+        </footer>
+
+
+        @*<script src="https://kit.fontawesome.com/27ce9fa351.js" crossorigin="anonymous"></script>*@
+        <script src="~/js/site.js" asp-append-version="true"></script>
+
+        @RenderSection("Scripts", required: false)
+</body>
+</html>

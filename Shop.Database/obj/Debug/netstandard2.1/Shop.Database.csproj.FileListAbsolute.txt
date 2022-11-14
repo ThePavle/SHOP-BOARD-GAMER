@@ -1,0 +1,24 @@
+C:\Users\Pavle\Desktop\3liHzm-Online-Store-master\Shop.Database\bin\Debug\netstandard2.1\Shop.Database.deps.json
+C:\Users\Pavle\Desktop\3liHzm-Online-Store-master\Shop.Database\bin\Debug\netstandard2.1\Shop.Database.dll
+C:\Users\Pavle\Desktop\3liHzm-Online-Store-master\Shop.Database\bin\Debug\netstandard2.1\Shop.Database.pdb
+C:\Users\Pavle\Desktop\3liHzm-Online-Store-master\Shop.Database\bin\Debug\netstandard2.1\Shop.Domain.dll
+C:\Users\Pavle\Desktop\3liHzm-Online-Store-master\Shop.Database\bin\Debug\netstandard2.1\Shop.Domain.pdb
+C:\Users\Pavle\Desktop\3liHzm-Online-Store-master\Shop.Database\obj\Debug\netstandard2.1\Shop.Database.csprojAssemblyReference.cache
+C:\Users\Pavle\Desktop\3liHzm-Online-Store-master\Shop.Database\obj\Debug\netstandard2.1\Shop.Database.AssemblyInfoInputs.cache
+C:\Users\Pavle\Desktop\3liHzm-Online-Store-master\Shop.Database\obj\Debug\netstandard2.1\Shop.Database.AssemblyInfo.cs
+C:\Users\Pavle\Desktop\3liHzm-Online-Store-master\Shop.Database\obj\Debug\netstandard2.1\Shop.Database.csproj.CoreCompileInputs.cache
+C:\Users\Pavle\Desktop\3liHzm-Online-Store-master\Shop.Database\obj\Debug\netstandard2.1\Shop.Database.csproj.CopyComplete
+C:\Users\Pavle\Desktop\3liHzm-Online-Store-master\Shop.Database\obj\Debug\netstandard2.1\Shop.Database.dll
+C:\Users\Pavle\Desktop\3liHzm-Online-Store-master\Shop.Database\obj\Debug\netstandard2.1\Shop.Database.pdb
+C:\Users\Pavle\Desktop\SHOP BOARD GAMER\Shop.Database\bin\Debug\netstandard2.1\Shop.Database.deps.json
+C:\Users\Pavle\Desktop\SHOP BOARD GAMER\Shop.Database\bin\Debug\netstandard2.1\Shop.Database.dll
+C:\Users\Pavle\Desktop\SHOP BOARD GAMER\Shop.Database\bin\Debug\netstandard2.1\Shop.Database.pdb
+C:\Users\Pavle\Desktop\SHOP BOARD GAMER\Shop.Database\bin\Debug\netstandard2.1\Shop.Domain.dll
+C:\Users\Pavle\Desktop\SHOP BOARD GAMER\Shop.Database\bin\Debug\netstandard2.1\Shop.Domain.pdb
+C:\Users\Pavle\Desktop\SHOP BOARD GAMER\Shop.Database\obj\Debug\netstandard2.1\Shop.Database.csprojAssemblyReference.cache
+C:\Users\Pavle\Desktop\SHOP BOARD GAMER\Shop.Database\obj\Debug\netstandard2.1\Shop.Database.AssemblyInfoInputs.cache
+C:\Users\Pavle\Desktop\SHOP BOARD GAMER\Shop.Database\obj\Debug\netstandard2.1\Shop.Database.AssemblyInfo.cs
+C:\Users\Pavle\Desktop\SHOP BOARD GAMER\Shop.Database\obj\Debug\netstandard2.1\Shop.Database.csproj.CoreCompileInputs.cache
+C:\Users\Pavle\Desktop\SHOP BOARD GAMER\Shop.Database\obj\Debug\netstandard2.1\Shop.Database.csproj.CopyComplete
+C:\Users\Pavle\Desktop\SHOP BOARD GAMER\Shop.Database\obj\Debug\netstandard2.1\Shop.Database.dll
+C:\Users\Pavle\Desktop\SHOP BOARD GAMER\Shop.Database\obj\Debug\netstandard2.1\Shop.Database.pdb

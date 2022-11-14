@@ -1,0 +1,24 @@
+C:\Users\Pavle\Desktop\3liHzm-Online-Store-master\Shop.Application\bin\Debug\netstandard2.1\Shop.Application.deps.json
+C:\Users\Pavle\Desktop\3liHzm-Online-Store-master\Shop.Application\bin\Debug\netstandard2.1\Shop.Application.dll
+C:\Users\Pavle\Desktop\3liHzm-Online-Store-master\Shop.Application\bin\Debug\netstandard2.1\Shop.Application.pdb
+C:\Users\Pavle\Desktop\3liHzm-Online-Store-master\Shop.Application\bin\Debug\netstandard2.1\Shop.Domain.dll
+C:\Users\Pavle\Desktop\3liHzm-Online-Store-master\Shop.Application\bin\Debug\netstandard2.1\Shop.Domain.pdb
+C:\Users\Pavle\Desktop\3liHzm-Online-Store-master\Shop.Application\obj\Debug\netstandard2.1\Shop.Application.csprojAssemblyReference.cache
+C:\Users\Pavle\Desktop\3liHzm-Online-Store-master\Shop.Application\obj\Debug\netstandard2.1\Shop.Application.AssemblyInfoInputs.cache
+C:\Users\Pavle\Desktop\3liHzm-Online-Store-master\Shop.Application\obj\Debug\netstandard2.1\Shop.Application.AssemblyInfo.cs
+C:\Users\Pavle\Desktop\3liHzm-Online-Store-master\Shop.Application\obj\Debug\netstandard2.1\Shop.Application.csproj.CoreCompileInputs.cache
+C:\Users\Pavle\Desktop\3liHzm-Online-Store-master\Shop.Application\obj\Debug\netstandard2.1\Shop.Application.csproj.CopyComplete
+C:\Users\Pavle\Desktop\3liHzm-Online-Store-master\Shop.Application\obj\Debug\netstandard2.1\Shop.Application.dll
+C:\Users\Pavle\Desktop\3liHzm-Online-Store-master\Shop.Application\obj\Debug\netstandard2.1\Shop.Application.pdb
+C:\Users\Pavle\Desktop\SHOP BOARD GAMER\Shop.Application\bin\Debug\netstandard2.1\Shop.Application.deps.json
+C:\Users\Pavle\Desktop\SHOP BOARD GAMER\Shop.Application\bin\Debug\netstandard2.1\Shop.Application.dll
+C:\Users\Pavle\Desktop\SHOP BOARD GAMER\Shop.Application\bin\Debug\netstandard2.1\Shop.Application.pdb
+C:\Users\Pavle\Desktop\SHOP BOARD GAMER\Shop.Application\bin\Debug\netstandard2.1\Shop.Domain.dll
+C:\Users\Pavle\Desktop\SHOP BOARD GAMER\Shop.Application\bin\Debug\netstandard2.1\Shop.Domain.pdb
+C:\Users\Pavle\Desktop\SHOP BOARD GAMER\Shop.Application\obj\Debug\netstandard2.1\Shop.Application.csprojAssemblyReference.cache
+C:\Users\Pavle\Desktop\SHOP BOARD GAMER\Shop.Application\obj\Debug\netstandard2.1\Shop.Application.AssemblyInfoInputs.cache
+C:\Users\Pavle\Desktop\SHOP BOARD GAMER\Shop.Application\obj\Debug\netstandard2.1\Shop.Application.AssemblyInfo.cs
+C:\Users\Pavle\Desktop\SHOP BOARD GAMER\Shop.Application\obj\Debug\netstandard2.1\Shop.Application.csproj.CoreCompileInputs.cache
+C:\Users\Pavle\Desktop\SHOP BOARD GAMER\Shop.Application\obj\Debug\netstandard2.1\Shop.Application.csproj.CopyComplete
+C:\Users\Pavle\Desktop\SHOP BOARD GAMER\Shop.Application\obj\Debug\netstandard2.1\Shop.Application.dll
+C:\Users\Pavle\Desktop\SHOP BOARD GAMER\Shop.Application\obj\Debug\netstandard2.1\Shop.Application.pdb

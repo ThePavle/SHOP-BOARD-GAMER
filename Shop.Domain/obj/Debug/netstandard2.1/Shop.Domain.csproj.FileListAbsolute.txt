@@ -1,0 +1,18 @@
+C:\Users\Pavle\Desktop\3liHzm-Online-Store-master\Shop.Domain\bin\Debug\netstandard2.1\Shop.Domain.deps.json
+C:\Users\Pavle\Desktop\3liHzm-Online-Store-master\Shop.Domain\bin\Debug\netstandard2.1\Shop.Domain.dll
+C:\Users\Pavle\Desktop\3liHzm-Online-Store-master\Shop.Domain\bin\Debug\netstandard2.1\Shop.Domain.pdb
+C:\Users\Pavle\Desktop\3liHzm-Online-Store-master\Shop.Domain\obj\Debug\netstandard2.1\Shop.Domain.csprojAssemblyReference.cache
+C:\Users\Pavle\Desktop\3liHzm-Online-Store-master\Shop.Domain\obj\Debug\netstandard2.1\Shop.Domain.AssemblyInfoInputs.cache
+C:\Users\Pavle\Desktop\3liHzm-Online-Store-master\Shop.Domain\obj\Debug\netstandard2.1\Shop.Domain.AssemblyInfo.cs
+C:\Users\Pavle\Desktop\3liHzm-Online-Store-master\Shop.Domain\obj\Debug\netstandard2.1\Shop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Pavle\Desktop\3liHzm-Online-Store-master\Shop.Domain\obj\Debug\netstandard2.1\Shop.Domain.dll
+C:\Users\Pavle\Desktop\3liHzm-Online-Store-master\Shop.Domain\obj\Debug\netstandard2.1\Shop.Domain.pdb
+C:\Users\Pavle\Desktop\SHOP BOARD GAMER\Shop.Domain\bin\Debug\netstandard2.1\Shop.Domain.deps.json
+C:\Users\Pavle\Desktop\SHOP BOARD GAMER\Shop.Domain\bin\Debug\netstandard2.1\Shop.Domain.dll
+C:\Users\Pavle\Desktop\SHOP BOARD GAMER\Shop.Domain\bin\Debug\netstandard2.1\Shop.Domain.pdb
+C:\Users\Pavle\Desktop\SHOP BOARD GAMER\Shop.Domain\obj\Debug\netstandard2.1\Shop.Domain.csprojAssemblyReference.cache
+C:\Users\Pavle\Desktop\SHOP BOARD GAMER\Shop.Domain\obj\Debug\netstandard2.1\Shop.Domain.AssemblyInfoInputs.cache
+C:\Users\Pavle\Desktop\SHOP BOARD GAMER\Shop.Domain\obj\Debug\netstandard2.1\Shop.Domain.AssemblyInfo.cs
+C:\Users\Pavle\Desktop\SHOP BOARD GAMER\Shop.Domain\obj\Debug\netstandard2.1\Shop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Pavle\Desktop\SHOP BOARD GAMER\Shop.Domain\obj\Debug\netstandard2.1\Shop.Domain.dll
+C:\Users\Pavle\Desktop\SHOP BOARD GAMER\Shop.Domain\obj\Debug\netstandard2.1\Shop.Domain.pdb
